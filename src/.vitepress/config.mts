@@ -21,7 +21,7 @@ export default ({
     //['link', { rel: 'icon', type: 'image/png', href: '/img/logo.png' }]
   ],
   themeConfig: {
-    siteTitle: 'Fonaments de Programació',
+    siteTitle: 'Recordatori de Programació',
     logo: '/img/logo_.png',
     nav: [
       { text: '🏠 Inici', link: '/index' },
