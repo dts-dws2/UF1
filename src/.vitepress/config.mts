@@ -21,7 +21,7 @@ export default ({
     //['link', { rel: 'icon', type: 'image/png', href: '/img/logo.png' }]
   ],
   themeConfig: {
-    siteTitle: 'Recordatori de Programació',
+    siteTitle: 'Recordatori Java 1',
     logo: '/img/logo_.png',
     nav: [
       { text: '🏠 Inici', link: '/index' },
